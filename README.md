@@ -1,2 +1,2 @@
-# wp-security.php
-wp-security.php
+2026 Default Webshell
+
